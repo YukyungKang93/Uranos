@@ -1,0 +1,47 @@
+
+#detailInfo {
+	width : 800px;
+	left: 3px;
+	position: absolute;
+	top : 100px;	
+	height: 600px;
+}
+#detailAct{
+	width : 800px;
+	right:3px;
+	position: absolute;
+	top : 100px;
+	height: 600px;
+}
+
+#modInfo{
+	width : 800px;
+	left: 3px;
+	position: absolute;
+	top : 750px;
+	height: 600px;	
+}
+
+#modAct{
+	width : 800px;
+	right:3px;
+	position: absolute;
+	top : 750px;
+	height: 600px;	
+}
+
+#program, #board, #reply {
+	height: 150px;
+}
+
+fieldset#del{
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 2px;
+}
